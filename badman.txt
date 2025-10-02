@@ -5,9 +5,9 @@ Group leader: ⛈ T.I.Q.S. ⛈
 
 Favorite Hobby
 
-\\n!\[](./hobby.jpg)
+\n!\[](./hobby.jpg)
 
 
 Happy Place
 
-\\n!\[](./happy_place.jpg)
+\n!\[](./happy_place.jpg)
